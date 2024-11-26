@@ -10,3 +10,5 @@ This Repository contains a few Redshift fundamentals.
 - While Amazon Redshift offers a wide range of benefits, it also has some limitations and drawbacks that should be considered based on your use case. Here are some of the [Main disadvantages](https://github.com/RahulRoy-rsp/RedShift_Fundamentals/blob/main/disadvantages.md)
 
 - In **Amazon Redshift**, data can be stored in either columnar or row-based formats. Understanding the advantages and drawbacks of **columnar storage** (which is Redshift's default) compared to **row-based storage** is important for optimizing performance, especially in analytical workloads. [Why Columnar is better than Row-Based in Redshift?](https://github.com/RahulRoy-rsp/RedShift_Fundamentals/blob/main/storage_format.md)
+
+- Amazon Redshift supports several methods for loading data into your clusters, depending on the data source and your specific requirements. [Check Here](https://github.com/RahulRoy-rsp/RedShift_Fundamentals/blob/main/data_loading.md)
